@@ -8,3 +8,7 @@
 * 📚 Driven by a relentless curiosity and passion for learning, always seeking out opportunities to expand my knowledge and stay ahead of the curve
 * 🌱 Dedicated to delivering excellence in every endeavor, whether it's crafting elegant code or intuitive user interfaces
 * 🔍 Excited to connect and explore how my blend of technical expertise and eagerness to learn can bring value to your team and projects
+
+##Contact Me:
+* Linkedin: https://www.linkedin.com/in/dirk-johnson-784963210/
+* Email: dirkemerson4@gmail.com
