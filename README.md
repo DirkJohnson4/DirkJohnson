@@ -1,5 +1,5 @@
 
-## Dirk Johnson - Software Engineering Enthusiast
+## Dirk Johnson - Software Engineer
 
 * 🚀 About to embark on the journey of graduation, completing a degree in Software Engineering this spring 🎓
 * 💻 Fluent in Python & C++, with a solid foundation in JavaScript, React, and HTML
